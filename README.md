@@ -30,7 +30,47 @@ understanding of real-world IT environments.
 
 ## Technologies and Tools
 
+- Command Prompt (CMD)
+- PowerShell
+- Linux Terminal
+- Cisco Packet Tracer
+- DiskPart
+- Microsoft Management Console
+- Windows Defender Firewall
+- Git and GitHub
+
 ## Project Roadmap
+
+- Operating Systems
+- System Administration
+- Networking
+- Cybersecurity
+- Software Troubleshooting
+- Backup and Recovery
+- IT Operations
+- Scripting and Automation
+
+## Current Progress
+
+- Project status: In Progress
+- Planned missions: 100
+- Project stages: 20
+- Current focus: Network Diagnostics
+
+## Completed Labs
+
+- Windows 11 Installation
+- Windows and Linux Dual Boot
+- Disk and Partition Management
+- Virtual Disk Management
+- Windows File Management
+- Local Users and Groups
+- NTFS Permissions and Access Control
+
+## Technical Documentation
+
+Technical reports, troubleshooting procedures, and
+lab results will be published throughout the project.
 
 ## Current Progress
 
