@@ -69,10 +69,6 @@ understanding of real-world IT environments.
 
 ## Technical Documentation
 
-Technical reports, troubleshooting procedures, and
-lab results will be published throughout the project.
-
-## Current Progress
 
 ## Completed Labs
 
