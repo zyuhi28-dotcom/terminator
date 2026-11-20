@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Project Terminator is a hands-on IT infrastructure project based on CompTIA A+ Core 2 (220-1202), focused on building, managing, securing, and troubleshooting the IT environment of a simulated company.
+Project based on CompTIA A+ Core 2 (220-1202), focused on building, managing, securing, and troubleshooting the IT environment of a simulated company.
 
 The project combines Windows and Linux administration, networking, cybersecurity, server management, and real-world IT support scenarios.
 
