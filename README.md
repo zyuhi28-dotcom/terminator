@@ -69,7 +69,3 @@ understanding of real-world IT environments.
 
 ## Technical Documentation
 
-
-## Completed Labs
-
-## Technical Documentation
