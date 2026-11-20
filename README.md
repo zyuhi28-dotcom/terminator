@@ -1,2 +1,23 @@
 # Project Terminator
-A hands-on project focused on developing practical IT skills through real-world troubleshooting, system administration, networking, security, and technical documentation.
+
+## Project Overview
+
+## Objectives
+
+## Lab Environment
+
+- Windows 11
+- Ubuntu
+- Debian
+- Android
+- Physical and virtual network environments
+
+## Technologies and Tools
+
+## Project Roadmap
+
+## Current Progress
+
+## Completed Labs
+
+## Technical Documentation
