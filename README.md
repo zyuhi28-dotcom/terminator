@@ -7,10 +7,10 @@
 ## Lab Environment
 
 ### Windows 11
-- Ubuntu
-- Debian
-- Android
-- Physical and virtual network environments
+### Ubuntu
+### Debian
+### Android
+### Physical and virtual network environments
 
 ## Technologies and Tools
 
