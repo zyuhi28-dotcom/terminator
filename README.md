@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-A hands-on IT project based on CompTIA A+ Core 2,
+Project based on CompTIA A+ Core 2,
 focused on system administration, networking,
 security, and real-world troubleshooting.
 
