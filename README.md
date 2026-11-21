@@ -80,13 +80,6 @@ The planned infrastructure will include:
 - IT Operations
 - Scripting and Automation
 
-## Current Progress
-
-- Project status: In Progress
-- Planned missions: 100
-- Project stages: 20
-- Current focus: Network Diagnostics and Infrastructure Development
-
 ## Completed Labs
 
 - Windows 11 Installation
